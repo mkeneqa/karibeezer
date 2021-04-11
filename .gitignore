@@ -1,2 +1,4 @@
 *.spec
 *.DS_Store
+.idea/*
+venv/*
